@@ -1,0 +1,25 @@
+<img src="screenshoots/1.png">
+<img src="screenshoots/2.png">
+<img src="screenshoots/3.png">
+<img src="screenshoots/4.png">
+<img src="screenshoots/5.png">
+<img src="screenshoots/6.png">
+<img src="screenshoots/7.png">
+<img src="screenshoots/8_add_dependance_webServiceGenerique.png">
+<img src="screenshoots/9_test_springDataRest.png">
+<img src="screenshoots/10_testing.png">
+<img src="screenshoots/11_Projection.png">
+<img src="screenshoots/12_testing_projection.png">
+<img src="screenshoots/13_testing_api_addAccountWithDTO.png">
+<img src="screenshoots/14_testing_DTOWithMApper.png">
+<img src="screenshoots/15_forMapperAddDependecy.png">
+<img src="screenshoots/16_graqhQl.png">
+<img src="screenshoots/17_testing_graphQL_Query.png">
+<img src="screenshoots/18_testing.png">
+<img src="screenshoots/19_testing_id_not_foundException.png">
+<img src="screenshoots/20_mutation.png">
+<img src="screenshoots/21_mutation_using_variables.png">
+<img src="screenshoots/22_Customer.png">
+<img src="screenshoots/23.png">
+<img src="screenshoots/24.png">
+
